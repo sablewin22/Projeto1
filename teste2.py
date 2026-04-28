@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title('POKEMON TEMOS QUE PEGAR EU SEI :P')
+st.title('OS POKEMONS MAIS COMUNS')
 st.write('Abaixo estão alguns Pokemons!')
 st.image('https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/025.png')
 st.image('https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/001.png')
