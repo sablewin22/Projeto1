@@ -1,12 +1,5 @@
 import streamlit as st
 
-st.title('POKEMON TEMOS QUE PEGAR EU SEI :P')
-st.write('Abaixo estão alguns Pokemons!')
-st.image('https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/025.png')
-st.image('https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/001.png')
-st.image('https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/007.png')
-st.image('https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/004.png')
-
 st.title('OS MELHORES JOGADORES rs😈')
 st.write('Abaixo estão os jogadores mais bonitos!')
 st.image('https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/10/GettyImages-1433916742-e1669266693306.jpg?w=1200&h=900&crop=0')
