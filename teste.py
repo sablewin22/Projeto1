@@ -7,7 +7,7 @@ st.image('https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/
 st.image('https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/007.png')
 st.image('https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/004.png')
 
-st.title('OS MELHHORES JOGADORES rs😈')
+st.title('OS MELHORES JOGADORES rs😈')
 st.write('Abaixo estão os jogadores mais bonitos!')
 st.image('https://admin.cnnbrasil.com.br/wp-content/uploads/sites/12/2022/10/GettyImages-1433916742-e1669266693306.jpg?w=1200&h=900&crop=0')
 st.image('https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRxp_Sp9DBPtCFKIy5lCuSRgtoORsOeQNjkdSB6MHJUBAxWe1b9I1AOcCXg93LGN_6ggVjl8yq-hngQW2I')
